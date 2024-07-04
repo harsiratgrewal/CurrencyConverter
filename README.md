@@ -1,4 +1,4 @@
 # Currency Converter
 #
-### This program is designed for ATM machines or (cash only) currency conversion machines that would be potentially used at Airports.
+### This program is designed for ATM machines or currency conversion machines that could potentially be used at Airports.
 
